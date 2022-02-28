@@ -1,0 +1,57 @@
+*{
+    padding:0;
+    margin:0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+body{
+    font-family:Sans-serif;
+}
+
+nav{
+    background-color: black;
+    height: 80px;
+    width: 100%;
+}
+
+label.logo{
+    color:white;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 100px;
+    font-weight: bold;
+}
+
+.username-label{
+    color:black;
+    font-size: 35px;
+    line-height: 80px;
+    font-weight: bold;
+    margin-right: 20%;
+}
+.btn_div{
+    float: right;
+    margin-right: 200px;
+    margin-top: 20px;
+    
+}
+
+
+.dialog-box{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.dialog-icon{
+    position:absolute;
+    right: 10px;
+    top:10px;
+}
+
+.commentbtn{
+    margin: 0px;
+    background-color: black !important;
+}

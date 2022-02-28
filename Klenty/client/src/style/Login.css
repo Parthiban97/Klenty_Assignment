@@ -1,0 +1,16 @@
+.textbox{
+    padding:20px;
+}
+
+.login_icon {
+    position: absolute;
+    right: 5px;
+    top: 35px;
+}
+
+.submit-button{
+    align-items: center;
+    margin-top: 30px;
+    width: 100px;
+    margin-left: 60px !important;
+}
